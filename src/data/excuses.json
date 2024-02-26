@@ -1,0 +1,242 @@
+[
+	{
+		"title": "We should have updated our software years ago",
+		"available": true
+	},
+	{
+		"title": "I did not anticipate that I would make any errors",
+		"available": true
+	},
+	{
+		"title": "There was too little data to bother with the extra functionality at the time",
+		"available": true
+	},
+	{
+		"title": "It is never done that before",
+		"available": true
+	},
+	{
+		"title": "It is a remote vendor issue",
+		"available": true
+	},
+	{
+		"title": "Your browser must be caching the old content",
+		"available": true
+	},
+	{
+		"title": "I have never seen that before in my life",
+		"available": true
+	},
+	{
+		"title": "It must be a hardware problem",
+		"available": true
+	},
+	{
+		"title": "Did you check for a virus on your system?",
+		"available": true
+	},
+	{
+		"title": "That is not covered by my job description",
+		"available": true
+	},
+	{
+		"title": "You must have done something wrong",
+		"available": true
+	},
+	{
+		"title": "The third party API is not responding",
+		"available": true
+	},
+	{
+		"title": "Where were you when the program blew up?",
+		"available": true
+	},
+	{
+		"title": "Oh, that was just a temporary fix",
+		"available": true
+	},
+	{
+		"title": "The request must have dropped some packets",
+		"available": true
+	},
+	{
+		"title": "I am surprised it works as well as it does",
+		"available": true
+	},
+	{
+		"title": "The person responsible does not work here anymore",
+		"available": true
+	},
+	{
+		"title": "The marketing department made us put that there",
+		"available": true
+	},
+	{
+		"title": "I am still working on that as we speak",
+		"available": true
+	},
+	{
+		"title": "That would not be economically feasible",
+		"available": true
+	},
+	{
+		"title": "I was told to stop working on that when something important came up",
+		"available": true
+	},
+	{
+		"title": "That process requires human oversight that nobody was providing",
+		"available": true
+	},
+	{
+		"title": "That is already fixed it just has not taken effect yet",
+		"available": true
+	},
+	{
+		"title": "It is a character encoding issue",
+		"available": true
+	},
+	{
+		"title": "Our code quality is no worse than anyone else in the industry",
+		"available": true
+	},
+	{
+		"title": "It is always been like that",
+		"available": true
+	},
+	{
+		"title": "Nobody has ever complained about it",
+		"available": true
+	},
+	{
+		"title": "It worked yesterday",
+		"available": true
+	},
+	{
+		"title": "There were too many developers working on that same thing",
+		"available": true
+	},
+	{
+		"title": "The project manager told me to do it that way",
+		"available": true
+	},
+	{
+		"title": "I thought you signed off on that?",
+		"available": true
+	},
+	{
+		"title": "The program has never collected that information",
+		"available": true
+	},
+	{
+		"title": "Why do you want to do it that way?",
+		"available": true
+	},
+	{
+		"title": "The third party documentation does not exist",
+		"available": true
+	},
+	{
+		"title": "I have not had any experience with that before",
+		"available": true
+	},
+	{
+		"title": "I could not find any examples of how that can be done anywhere online",
+		"available": true
+	},
+	{
+		"title": "That feature would be outside of the scope",
+		"available": true
+	},
+	{
+		"title": "It is not a code problem - our users need more training",
+		"available": true
+	},
+	{
+		"title": "I must have been stress testing our production server",
+		"available": true
+	},
+	{
+		"title": "I have not touched that code in weeks",
+		"available": true
+	},
+	{
+		"title": "We spent three months debugging it because we only had one month to build it",
+		"available": true
+	},
+	{
+		"title": "This is a previously known bug you told me not to work on yet",
+		"available": true
+	},
+	{
+		"title": "Well, that is a first",
+		"available": true
+	},
+	{
+		"title": "It was working in my head",
+		"available": true
+	},
+	{
+		"title": "The client wanted it changed at the last minute",
+		"available": true
+	},
+	{
+		"title": "The request must have dropped some packets",
+		"available": true
+	},
+	{
+		"title": "Maybe somebody forgot to pay our hosting company",
+		"available": true
+	},
+	{
+		"title": "I have too many other high priority things to do right now",
+		"available": true
+	},
+	{
+		"title": "This code was not supposed to go in to production yet",
+		"available": true
+	},
+	{
+		"title": "It would have taken twice as long to build it properly",
+		"available": true
+	},
+	{
+		"title": "That was literally a one in a million error",
+		"available": true
+	},
+	{
+		"title": "It is a third party application issue",
+		"available": true
+	},
+	{
+		"title": "Did you check for a virus on your system?",
+		"available": true
+	},
+	{
+		"title": "How is that possible?",
+		"available": true
+	},
+	{
+		"title": "It must be because of a leap year",
+		"available": true
+	},
+	{
+		"title": "I am not sure as I have never had a look at how that works before",
+		"available": true
+	},
+	{
+		"title": "It is a known bug with the programming language",
+		"available": true
+	},
+	{
+		"title": "Even though it does not work, how does it feel?",
+		"available": true
+	},
+	{
+		"title": "I ca not test everything",
+		"available": true
+	},
+	{
+		"title": "I forgot to commit the code that fixes that",
+		"available": true
+	}
+]
