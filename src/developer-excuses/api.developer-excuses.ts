@@ -1,5 +1,5 @@
 import { Types } from 'mongoose';
-import express, { Express } from 'express';
+import express from 'express';
 import { Excuses } from './model.developer-excuses';
 export const router = express.Router();
 
@@ -13,6 +13,16 @@ router.get('/', async (req, res) => {
 router.get('/random', async (req, res) => {
 	const excuses_docs = await Excuses.find();
 	const random = Math.floor(Math.random() * excuses_docs.length);
+
+	const { session }: { session: any } = req;
+	if (session.counter !== undefined) {
+		session.counter += 1;
+	} else {
+		session.counter = 0;
+	}
+
+	console.log('SESSION', session);
+
 	res.send(excuses_docs[random]);
 });
 
@@ -34,8 +44,8 @@ router.get('/:excuses_id', async (req, res) => {
 		res.send(doc);
 	}
 	res.status(404);
-	res.send({ status: 'excuses not found' });
-	// return { status: 'excuses not found' };
+	// res.send({ status: 'excuses not found' });
+	return { status: 'excuses not found' };
 });
 
 // CRU(D): Delete a excuses

@@ -12,3 +12,4 @@ const checkEnv = (envVar: string) => {
 
 export const PORT: number = parseInt(checkEnv('PORT'), 10);
 export const MONGODB_URL: string = checkEnv('MONGODB_URL');
+export const SECRET_TOKEN: string = checkEnv('SECRET_TOKEN');
