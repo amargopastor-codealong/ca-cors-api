@@ -1,6 +1,6 @@
 import { InferSchemaType } from 'mongoose';
 import { MongoServerError } from 'mongodb';
-import { ExcusesDocument, Excuses } from './Excuses.model';
+import { ExcusesDocument, Excuses } from './model.developer-excuses';
 import { prepare_db } from '../db';
 import data from '../data/excuses.json';
 
